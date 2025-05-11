@@ -7,9 +7,17 @@ const footer = () => {
 				<div>
 					Made by{" "}
 					<a
-						href="https://github.com/callmenixsh"
+						href="https://github.com/itslaksh"
 						target="_blank"
 						className="font-bold text-red-500 dark:text-red-300"
+					>
+						itslaksh
+					</a>{" "}
+					&{" "}
+					<a
+						href="https://github.com/callmenixsh"
+						target="_blank"
+						className="font-bold text-teal-500 dark:text-red-300"
 					>
 						callmenixsh
 					</a>{" "}
